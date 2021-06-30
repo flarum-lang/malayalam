@@ -3,4 +3,4 @@
 
 // TODO: copy compiled translations from https://unpkg.com/dayjs@v1.10.4/locale/ml.js
 
-dayjs.locale('xx');
+dayjs.locale('ml');
