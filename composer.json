@@ -1,8 +1,8 @@
 {
-	"name": "Dilip/flarum-lang-malayalam",
+	"name": "meetdilip/flarum-lang-malayalam",
 	"type": "flarum-extension",
 	"description": "Malayalam language pack for Flarum.",
-	"homepage": "https://github.com/yourname/flarum-lang-malayalam",
+	"homepage": "https://github.com/meetdilip/flarum-lang-malayalam",
 	"keywords": [
 		"locale",
 		"flarum",
@@ -11,14 +11,14 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Dilip",
+			"name": "meetdilip",
 			"email": "dilip@flarum.org",
 			"homepage": "https://github.com/meetdilip/malayalam"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/yourname/flarum-lang-malayalam/issues",
-		"source": "https://github.com/yourname/flarum-lang-malayalam"
+		"issues": "https://github.com/meetdilip/flarum-lang-malayalam/issues",
+		"source": "https://github.com/meetdilip/flarum-lang-malayalam"
 	},
 	"require": {
 		"flarum/core": "^1.0"
