@@ -1,7 +1,7 @@
 # Malayalam language pack for [Flarum](https://flarum.org/)
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/flarum-lang/malayalam?color=success&label=stable)](https://packagist.org/packages/flarum-lang/malayalam) 
-[![Latest Unstable Version](https://img.shields.io/packagist/v/flarum-lang/malayalama?include_prereleases&label=unstable)](https://packagist.org/packages/flarum-lang/malayalam) 
+[![Latest Unstable Version](https://img.shields.io/packagist/v/flarum-lang/malayalam?include_prereleases&label=unstable)](https://packagist.org/packages/flarum-lang/malayalam) 
 [![License](https://img.shields.io/packagist/l/flarum-lang/malayalam)](https://packagist.org/packages/flarum-lang/malayalam) 
 [![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/malayalam)](https://packagist.org/packages/flarum-lang/malayalam/stats) 
 [![Monthly Downloads](https://img.shields.io/packagist/dm/flarum-lang/malayalam)](https://packagist.org/packages/flarum-lang/malayalam/stats) 
