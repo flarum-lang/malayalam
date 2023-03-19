@@ -24,6 +24,7 @@
 	"extra": {
 		"flarum-extension": {
 			"title": "Malayalam",
+			"category": "language",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
