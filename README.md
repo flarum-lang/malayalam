@@ -20,7 +20,7 @@ This language pack contains Malayalam translations for Flarum (compatible with `
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/malayalam:dev-master
+composer require "flarum-lang/malayalam:@dev"
 ```
 
 Then enable extension in admin panel of your Flarum.
