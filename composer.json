@@ -1,21 +1,15 @@
 {
 	"name": "flarum-lang/malayalam",
+	"description": "Malayalam Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Malayalam language pack for Flarum.",
 	"keywords": [
-		"locale",
-		"flarum",
-		"ml-locale"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/malayalam",
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "meetdilip",
-			"email": "dilip@flarum.org"
-		}
-	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/malayalam/issues",
+		"forum": "https://discuss.flarum.org/d/40201",
 		"source": "https://github.com/flarum-lang/malayalam"
 	},
 	"require": {
@@ -33,13 +27,7 @@
 		},
 		"flarum-locale": {
 			"code": "ml",
-			"title": "Malayalam"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "മലയാളം"
 		}
 	}
 }
